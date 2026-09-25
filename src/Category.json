@@ -1,0 +1,197 @@
+[
+    {
+        "name":"panner pizza",
+        "prize":250,
+        "quantity":3,
+        "category":"pizza",
+        "image":"pizza1.jpg",
+        "recipe":"ingredients :- pizza base-maida,yeast,sugar,salt,oil,hot water,  souce-pizza souce,tomato souce "
+    },
+    {
+        
+        "name":"sicilian pizza",
+         "prize":200,
+        "quantity":6,
+        "category":"pizza",
+        "image":"pizza2.jpg",
+        "recipe":"aaaaaaaaaaaaaaaaaaghhaaaaaaaaaa"
+        
+    },
+    {
+        "name":"Roman pizza",
+        "prize":350,
+        "quantity":3,
+        "category":"pizza",
+        "image":"pizza3.jpg",
+        "recipe":"aaaaaaaaaaaaaaaaaammmvvaaaaaaaaaa"
+    },
+    {
+        
+        "name":"cheese corn pizza",
+         "prize":200,
+        "quantity":6,
+        "category":"pizza",
+        "image":"pizza4.jpg",
+        "recipe":"aaaaaaaaaaaaaaaaaaaaaaabbbbaaaaa"
+        
+    },
+    {
+        "name":"peri peri pizza",
+         "prize":220,
+        "quantity":5,
+        "category":"pizza",
+        "image":"pizza5.jpg",
+        "recipe":"aaaaaaaaaaaaaaaaaaanmnmaaaaaaaaa"
+    
+    },
+    {
+        "name":"classic burger",
+         "prize":180,
+        "quantity":3,
+        "category":"burger",
+        "image":"bur1.jpg",
+        
+        "recipe":"aaaaaaaaaaaaaaaaaaghhaaaaaaaaaa"
+        
+    },
+     {
+        "name":"vegetable burger",
+         "prize":150,
+        "quantity":1,
+        "category":"burger",
+        "image":"bur2.jpg",
+        
+        "recipe":"aaaaaaaaaaaaaaaaaaghhaaaaaaaaaa"
+        
+    },
+     {
+        "name":"spicy burger",
+         "prize":180,
+        "quantity":5,
+        "category":"burger",
+        "image":"bur3.jpg",
+        
+        "recipe":"aaaaaaaaaaaaaaaaaaghhaaaaaaaaaa"
+        
+    },
+     {
+        "name":"chicken burger",
+         "prize":200,
+        "quantity":3,
+        "category":"burger",
+        "image":"bur4.jpg",
+        
+        "recipe":"aaaaaaaaaaaaaaaaaaghhaaaaaaaaaa"
+        
+    },
+     {
+        "name":"turkey burger",
+         "prize":160,
+        "quantity":2,
+        "category":"burger",
+        "image":"bur5.jpg",
+        
+        "recipe":"aaaaaaaaaaaaaaaaaaghhaaaaaaaaaa"
+        
+    },
+    {
+        "name":"chicken biryani",
+         "prize":260,
+        "quantity":2,
+        "category":"biryani",
+        "image":"bir1.jpg",
+        
+        "recipe":"aaaaaaaaaaaaaaaaaaghhaaaaaaaaaa"
+        
+    },
+     {
+        "name":"egg biryani",
+         "prize":220,
+        "quantity":2,
+        "category":"biryani",
+        "image":"bir2.jpg",
+        
+        "recipe":"aaaaaaaaaaaaaaaaaaghhaaaaaaaaaa"
+        
+    },
+     {
+        "name":"veg biryani",
+         "prize":260,
+        "quantity":4,
+        "category":"biryani",
+        "image":"bir3.jpg",
+        
+        "recipe":"aaaaaaaaaaaaaaaaaaghhaaaaaaaaaa"
+        
+    },
+     {
+        "name":"hyderabadi biryani",
+         "prize":360,
+        "quantity":3,
+        "category":"biryani",
+        "image":"bir4.jpg",
+        
+        "recipe":"aaaaaaaaaaaaaaaaaaghhaaaaaaaaaa"
+        
+    },
+     {
+        "name":"kashmiri biryani",
+         "prize":380,
+        "quantity":3,
+        "category":"biryani",
+        "image":"bir5.jpg",
+        
+        "recipe":"aaaaaaaaaaaaaaaaaaghhaaaaaaaaaa"
+        
+    },
+     {
+        "name":"classic sandwich",
+         "prize":260,
+        "quantity":3,
+        "category":"sandwich",
+        "image":"san1.jpg",
+        
+        "recipe":"aaaaaaaaaaaaaaaaaaghhaaaaaaaaaa"
+        
+    },
+     {
+        "name":"cheese corn sandwich",
+         "prize":180,
+        "quantity":1,
+        "category":"sandwich",
+        "image":"san2.jpg",
+        
+        "recipe":"aaaaaaaaaaaaaaaaaaghhaaaaaaaaaa"
+        
+    },
+     {
+        "name":"peri peri sandwich",
+         "prize":200,
+        "quantity":2,
+        "category":"sandwich",
+        "image":"san3.jpg",
+        
+        "recipe":"aaaaaaaaaaaaaaaaaaghhaaaaaaaaaa"
+        
+    },
+     {
+        "name":"vegatable sandwich",
+         "prize":150,
+        "quantity":3,
+        "category":"sandwich",
+        "image":"san4.jpg",
+        
+        "recipe":"aaaaaaaaaaaaaaaaaaghhaaaaaaaaaa"
+        
+    },
+     {
+        "name":"potato sandwich",
+         "prize":160,
+        "quantity":4,
+        "category":"sandwich",
+        "image":"san5.jpg",
+        
+        "recipe":"aaaaaaaaaaaaaaaaaaghhaaaaaaaaaa"     
+    }
+     
+]
