@@ -1,5 +1,5 @@
 import { NavLink } from 'react-router-dom'
-import category from './category.json'
+import category from './Category.json'
 import { useState } from 'react'
 function Demo()
 {
